@@ -10,7 +10,7 @@ TODO:
   CREATE DEVLOG :black_square_button: <br/>
   REACH 100 SUBS :black_square_button: <br/>
   COMPETE IN GAME JAM :black_square_button: <br/>
-  PUBLISH A GAME ON STEAM :black_square_button:< br/>
+  PUBLISH A GAME ON STEAM :black_square_button:<br/>
   MAKE MY FIRST PENNY :black_square_button: <br/>
   
 <!---
