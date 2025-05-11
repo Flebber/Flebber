@@ -5,7 +5,7 @@ TODO:
   CAN IMPLEMENT CORE FEATURES FROM SCRATCH :black_square_button: <br/>
   100% THE GDSCRIPT FROM ZERO LESSONS :black_square_button: <br/>
   CAN FINISH A GAME FROM SCRTACH :black_square_button: <br/>
-  REFURBISH SOCIAL ACCOUNTS :black_square_button: <br/>
+  REFURBISH SOCIAL ACCOUNTS ✅ <br/>
   START YOUTUBE :black_square_button: <br/>
   CREATE DEVLOG :black_square_button: <br/>
   REACH 100 SUBS :black_square_button: <br/>
